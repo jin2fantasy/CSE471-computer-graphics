@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\0b63ed904bc30e964e34f27203d7d90c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B07FDC90-BFFA-450B-B516-EB2BADE2ED72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
