@@ -10,8 +10,8 @@ Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:46
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:52
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
   "Debug\" 디렉터리를 만들고 있습니다.
   "Debug\CompilerIdC.tlog\" 디렉터리를 만들고 있습니다.
@@ -22,7 +22,7 @@ ClCompile:
   CMakeCCompilerId.c
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
-  CompilerIdC.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\.\CompilerIdC.exe
+  CompilerIdC.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\.\CompilerIdC.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
   :VCEnd
@@ -30,20 +30,20 @@ PostBuildEvent:
 FinalizeBuildStatus:
   "Debug\CompilerIdC.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
   "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.43
+경과 시간: 00:00:01.52
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
 
-The C compiler identification is MSVC, found in "C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/3.2.1/CompilerIdC/CompilerIdC.exe"
+The C compiler identification is MSVC, found in "C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/3.2.1/CompilerIdC/CompilerIdC.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler:  
@@ -56,8 +56,8 @@ Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:47
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:54
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
   "Debug\" 디렉터리를 만들고 있습니다.
   "Debug\CompilerIdCXX.tlog\" 디렉터리를 만들고 있습니다.
@@ -68,7 +68,7 @@ ClCompile:
   CMakeCXXCompilerId.cpp
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
-  CompilerIdCXX.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\.\CompilerIdCXX.exe
+  CompilerIdCXX.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\.\CompilerIdCXX.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
   :VCEnd
@@ -76,216 +76,216 @@ PostBuildEvent:
 FinalizeBuildStatus:
   "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
   "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.48
+경과 시간: 00:00:00.91
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/3.2.1/CompilerIdCXX/CompilerIdCXX.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/3.2.1/CompilerIdCXX/CompilerIdCXX.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2865879381.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2240195835.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:48
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2865879381.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:55
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2240195835.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
-  "cmTryCompileExec2865879381.dir\Debug\" 디렉터리를 만들고 있습니다.
-  "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
-  "cmTryCompileExec2865879381.dir\Debug\cmTryCom.95B93003.tlog\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec2240195835.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec2240195835.dir\Debug\cmTryCom.060EA353.tlog\" 디렉터리를 만들고 있습니다.
 InitializeBuildStatus:
-  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec2865879381.dir\Debug\cmTryCom.95B93003.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec2240195835.dir\Debug\cmTryCom.060EA353.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2865879381.dir\Debug\\" /Fd"cmTryCompileExec2865879381.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2240195835.dir\Debug\\" /Fd"cmTryCompileExec2240195835.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCCompiler.c"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2865879381.dir\Debug\\" /Fd"cmTryCompileExec2865879381.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2240195835.dir\Debug\\" /Fd"cmTryCompileExec2240195835.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCCompiler.c"
   
   testCCompiler.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2865879381.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2865879381.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2865879381.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2865879381.dir\Debug\testCCompiler.obj
-  cmTryCompileExec2865879381.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2865879381.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2240195835.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2240195835.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2240195835.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2240195835.dir\Debug\testCCompiler.obj
+  cmTryCompileExec2240195835.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2240195835.exe
 FinalizeBuildStatus:
-  "cmTryCompileExec2865879381.dir\Debug\cmTryCom.95B93003.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-  "cmTryCompileExec2865879381.dir\Debug\cmTryCom.95B93003.tlog\cmTryCompileExec2865879381.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2865879381.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+  "cmTryCompileExec2240195835.dir\Debug\cmTryCom.060EA353.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec2240195835.dir\Debug\cmTryCom.060EA353.tlog\cmTryCompileExec2240195835.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2240195835.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.57
+경과 시간: 00:00:00.85
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3785733377.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3026410502.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:48
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3785733377.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:56
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3026410502.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
-  "cmTryCompileExec3785733377.dir\Debug\" 디렉터리를 만들고 있습니다.
-  "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
-  "cmTryCompileExec3785733377.dir\Debug\cmTryCom.F4D0ABE5.tlog\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3026410502.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3026410502.dir\Debug\cmTryCom.068BB76A.tlog\" 디렉터리를 만들고 있습니다.
 InitializeBuildStatus:
-  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3785733377.dir\Debug\cmTryCom.F4D0ABE5.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3026410502.dir\Debug\cmTryCom.068BB76A.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3785733377.dir\Debug\\" /Fd"cmTryCompileExec3785733377.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3026410502.dir\Debug\\" /Fd"cmTryCompileExec3026410502.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3785733377.dir\Debug\\" /Fd"cmTryCompileExec3785733377.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3026410502.dir\Debug\\" /Fd"cmTryCompileExec3026410502.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
   
   CMakeCCompilerABI.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3785733377.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3785733377.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3785733377.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3785733377.dir\Debug\CMakeCCompilerABI.obj
-  cmTryCompileExec3785733377.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3785733377.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3026410502.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3026410502.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3026410502.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3026410502.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec3026410502.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3026410502.exe
 FinalizeBuildStatus:
-  "cmTryCompileExec3785733377.dir\Debug\cmTryCom.F4D0ABE5.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-  "cmTryCompileExec3785733377.dir\Debug\cmTryCom.F4D0ABE5.tlog\cmTryCompileExec3785733377.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3785733377.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+  "cmTryCompileExec3026410502.dir\Debug\cmTryCom.068BB76A.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3026410502.dir\Debug\cmTryCom.068BB76A.tlog\cmTryCompileExec3026410502.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3026410502.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.74
+경과 시간: 00:00:00.58
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3705917539.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3600699886.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:49
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3705917539.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:57
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3600699886.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
-  "cmTryCompileExec3705917539.dir\Debug\" 디렉터리를 만들고 있습니다.
-  "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
-  "cmTryCompileExec3705917539.dir\Debug\cmTryCom.1F5F7B09.tlog\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3600699886.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3600699886.dir\Debug\cmTryCom.67D9A309.tlog\" 디렉터리를 만들고 있습니다.
 InitializeBuildStatus:
-  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3705917539.dir\Debug\cmTryCom.1F5F7B09.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3600699886.dir\Debug\cmTryCom.67D9A309.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3705917539.dir\Debug\\" /Fd"cmTryCompileExec3705917539.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3600699886.dir\Debug\\" /Fd"cmTryCompileExec3600699886.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3705917539.dir\Debug\\" /Fd"cmTryCompileExec3705917539.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3600699886.dir\Debug\\" /Fd"cmTryCompileExec3600699886.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
   
   testCXXCompiler.cxx
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3705917539.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3705917539.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3705917539.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3705917539.dir\Debug\testCXXCompiler.obj
-  cmTryCompileExec3705917539.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3705917539.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3600699886.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3600699886.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3600699886.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3600699886.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec3600699886.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3600699886.exe
 FinalizeBuildStatus:
-  "cmTryCompileExec3705917539.dir\Debug\cmTryCom.1F5F7B09.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-  "cmTryCompileExec3705917539.dir\Debug\cmTryCom.1F5F7B09.tlog\cmTryCompileExec3705917539.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3705917539.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+  "cmTryCompileExec3600699886.dir\Debug\cmTryCom.67D9A309.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3600699886.dir\Debug\cmTryCom.67D9A309.tlog\cmTryCompileExec3600699886.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3600699886.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.55
+경과 시간: 00:00:00.58
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2503610236.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2689895303.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:50
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2503610236.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:57
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2689895303.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
-  "cmTryCompileExec2503610236.dir\Debug\" 디렉터리를 만들고 있습니다.
-  "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
-  "cmTryCompileExec2503610236.dir\Debug\cmTryCom.E362347E.tlog\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec2689895303.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec2689895303.dir\Debug\cmTryCom.F033EEB0.tlog\" 디렉터리를 만들고 있습니다.
 InitializeBuildStatus:
-  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec2503610236.dir\Debug\cmTryCom.E362347E.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec2689895303.dir\Debug\cmTryCom.F033EEB0.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2503610236.dir\Debug\\" /Fd"cmTryCompileExec2503610236.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2689895303.dir\Debug\\" /Fd"cmTryCompileExec2689895303.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2503610236.dir\Debug\\" /Fd"cmTryCompileExec2503610236.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2689895303.dir\Debug\\" /Fd"cmTryCompileExec2689895303.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
   
   CMakeCXXCompilerABI.cpp
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2503610236.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2503610236.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2503610236.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2503610236.dir\Debug\CMakeCXXCompilerABI.obj
-  cmTryCompileExec2503610236.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2503610236.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2689895303.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2689895303.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2689895303.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2689895303.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec2689895303.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2689895303.exe
 FinalizeBuildStatus:
-  "cmTryCompileExec2503610236.dir\Debug\cmTryCom.E362347E.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-  "cmTryCompileExec2503610236.dir\Debug\cmTryCom.E362347E.tlog\cmTryCompileExec2503610236.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2503610236.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+  "cmTryCompileExec2689895303.dir\Debug\cmTryCom.F033EEB0.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec2689895303.dir\Debug\cmTryCom.F033EEB0.tlog\cmTryCompileExec2689895303.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec2689895303.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.59
+경과 시간: 00:00:00.58
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1153727799.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3352149617.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine 버전 12.0.31101.0
 [Microsoft .NET Framework, 버전 4.0.30319.34209]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-빌드 시작: 2015-04-16 오후 4:00:51
-1 노드의 "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec1153727799.vcxproj" 프로젝트(기본 대상)입니다.
+빌드 시작: 2015-04-17 오후 9:13:58
+1 노드의 "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3352149617.vcxproj" 프로젝트(기본 대상)입니다.
 PrepareForBuild:
-  "cmTryCompileExec1153727799.dir\Debug\" 디렉터리를 만들고 있습니다.
-  "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
-  "cmTryCompileExec1153727799.dir\Debug\cmTryCom.C4A3EDAA.tlog\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3352149617.dir\Debug\" 디렉터리를 만들고 있습니다.
+  "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\" 디렉터리를 만들고 있습니다.
+  "cmTryCompileExec3352149617.dir\Debug\cmTryCom.1917CC4E.tlog\" 디렉터리를 만들고 있습니다.
 InitializeBuildStatus:
-  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec1153727799.dir\Debug\cmTryCom.C4A3EDAA.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
+  "AlwaysCreate"이(가) 지정되었기 때문에 "cmTryCompileExec3352149617.dir\Debug\cmTryCom.1917CC4E.tlog\unsuccessfulbuild"을(를) 만들고 있습니다.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1153727799.dir\Debug\\" /Fd"cmTryCompileExec1153727799.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\feature_tests.cxx"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3352149617.dir\Debug\\" /Fd"cmTryCompileExec3352149617.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\feature_tests.cxx"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1153727799.dir\Debug\\" /Fd"cmTryCompileExec1153727799.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\feature_tests.cxx"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3352149617.dir\Debug\\" /Fd"cmTryCompileExec3352149617.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\feature_tests.cxx"
   
   feature_tests.cxx
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1153727799.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1153727799.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Malak/Desktop/wonjin/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1153727799.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1153727799.dir\Debug\feature_tests.obj
-  cmTryCompileExec1153727799.vcxproj -> C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1153727799.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3352149617.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3352149617.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/assign2-skeleton/build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3352149617.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3352149617.dir\Debug\feature_tests.obj
+  cmTryCompileExec3352149617.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3352149617.exe
 FinalizeBuildStatus:
-  "cmTryCompileExec1153727799.dir\Debug\cmTryCom.C4A3EDAA.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-  "cmTryCompileExec1153727799.dir\Debug\cmTryCom.C4A3EDAA.tlog\cmTryCompileExec1153727799.lastbuildstate"에 연결(touching)하고 있습니다.
-"C:\Users\Malak\Desktop\wonjin\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec1153727799.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+  "cmTryCompileExec3352149617.dir\Debug\cmTryCom.1917CC4E.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+  "cmTryCompileExec3352149617.dir\Debug\cmTryCom.1917CC4E.tlog\cmTryCompileExec3352149617.lastbuildstate"에 연결(touching)하고 있습니다.
+"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\build\CMakeFiles\CMakeTmp\cmTryCompileExec3352149617.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
 
 빌드했습니다.
     경고 0개
     오류 0개
 
-경과 시간: 00:00:00.53
+경과 시간: 00:00:00.61
 
 
     Feature record: CXX_FEATURE:1cxx_alias_templates

@@ -1,47 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\main.cpp">
+    <ClCompile Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\textfile.cpp">
+    <ClCompile Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\textfile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\textfile.h">
+    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\Angel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Angel.h">
+    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\CheckError.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\CheckError.h">
+    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\mat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\mat.h">
+    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\textfile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\vec.h">
+    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\vec.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\phong.frag" />
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\silhouette.frag" />
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\toon.frag" />
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\phong.vert" />
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\silhouette.vert" />
-    <None Include="C:\Users\Malak\Desktop\wonjin\assign2-skeleton\toon.vert" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\phong.frag" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\silhouette.frag" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\toon.frag" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\phong.vert" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\silhouette.vert" />
+    <None Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\assign2-skeleton\toon.vert" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{2001D1E8-7D52-484A-9E98-10458ACCBDD8}</UniqueIdentifier>
+      <UniqueIdentifier>{67ADDE32-3244-4E6D-9707-512A289AD030}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{FDF461C0-61B9-478B-B8DE-BA6CBD7BB276}</UniqueIdentifier>
+      <UniqueIdentifier>{EDFACF04-ADA7-4EC0-9E70-2DFCBF4C7574}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
