@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\e28742ee4ef0655440f7d77c9781eea7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{56B2C0E9-1395-4379-BA81-DB45D072EDA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

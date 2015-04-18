@@ -1,0 +1,44 @@
+﻿Build started 2015-04-18 오전 2:56:12.
+     1>Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\assign_1.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\wonjin\SkyDrive\臾몄꽌\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include" /I"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"assign_1.dir\Debug\\" /Fd"assign_1.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp"
+         main.cpp
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\Angel.h(63): warning C4305: 'initializing' : truncation from 'double' to 'const GLfloat'
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(698): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(699): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(700): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(721): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(723): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mat.h(742): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(30): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(35): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(88): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(98): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(104): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wonjin\skydrive\문서\assignments\cse471-computer-graphics\assign-1\skeleton-code\mesh.h(109): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(76): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(77): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(80): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(81): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(115): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(118): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(216): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(242): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(255): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(276): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(292): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(293): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\Debug\assign_1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/Debug" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib freeglut.lib glew32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug assign_1.dir\Debug\main.obj
+         assign_1.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\Debug\assign_1.exe
+     1>Done Building Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\assign_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
