@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\textfile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\Angel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\CheckError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\textfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\vec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\assign1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\phong.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\phong.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\silhouette.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\silhouette.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\toon.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\assign2-skeleton\toon.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{04FAA467-2104-44A7-B832-5B37E65C7E78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{74428C3D-11D8-4B0D-BD56-180EE21113AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{cce22eb6-56f7-42f0-9455-1b08ecb37dbf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

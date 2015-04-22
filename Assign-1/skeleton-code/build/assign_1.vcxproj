@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGUID>{6A79A29C-241D-4314-B342-4B23F2301C13}</ProjectGUID>
+    <ProjectGUID>{DB642D02-005F-4B55-BC59-0295E30B49D1}</ProjectGUID>
     <Keyword>Win32Proj</Keyword>
     <Platform>Win32</Platform>
     <ProjectName>assign_1</ProjectName>
@@ -58,25 +58,25 @@
   <PropertyGroup Label="UserMacros" />
     <PropertyGroup>
       <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\Debug\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\Debug\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">assign_1.dir\Debug\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">assign_1</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\Release\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\Release\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">assign_1.dir\Release\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">assign_1</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\MinSizeRel\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\MinSizeRel\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">assign_1.dir\MinSizeRel\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">assign_1</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\RelWithDebInfo\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\RelWithDebInfo\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">assign_1.dir\RelWithDebInfo\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">assign_1</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
@@ -85,7 +85,7 @@
     </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Debug/</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <CompileAs>CompileAsCpp</CompileAs>
@@ -102,10 +102,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -115,11 +115,11 @@
     <Link>
       <AdditionalOptions> /machine:X86 /debug %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;freeglut.lib;glew32.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/Debug/assign_1.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -129,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Release/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -145,10 +145,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -158,11 +158,11 @@
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;freeglut.lib;glew32.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Release/assign_1.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/Release/assign_1.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/Release/assign_1.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/Release/assign_1.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -172,7 +172,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -188,10 +188,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -201,11 +201,11 @@
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;freeglut.lib;glew32.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/MinSizeRel/assign_1.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/MinSizeRel/assign_1.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/MinSizeRel/assign_1.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/MinSizeRel/assign_1.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -215,7 +215,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -231,10 +231,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\freeglut\include;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\glew\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -244,11 +244,11 @@
     <Link>
       <AdditionalOptions> /machine:X86 /debug %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;freeglut.lib;glew32.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/freeglut/lib/$(Configuration);C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib;C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/glew/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/RelWithDebInfo/assign_1.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/RelWithDebInfo/assign_1.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/RelWithDebInfo/assign_1.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/RelWithDebInfo/assign_1.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -257,10 +257,10 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt">
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
+    <CustomBuild Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -268,12 +268,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -281,12 +281,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -294,12 +294,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code -BC:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build --check-stamp-file C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -307,22 +307,22 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCCompiler.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeCXXCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeGenericSystem.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\WindowsPaths.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\3.2.1\CMakeRCCompiler.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeRCInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXInformation.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\Platform\Windows-MSVC.cmake;C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\Angel.h" />
-    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\CheckError.h" />
-    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\mat.h" />
-    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\Mesh.h" />
-    <ClInclude Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\vec.h" />
-    <ClCompile Include="C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp"  />
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\Angel.h" />
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\CheckError.h" />
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\mat.h" />
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\Mesh.h" />
+    <ClInclude Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\vec.h" />
+    <ClCompile Include="C:\Users\Malak\Desktop\wonjin\CSE471-computer-graphics\Assign-1\skeleton-code\main.cpp"  />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/ZERO_CHECK.vcxproj">
-      <Project>87CD94B4-1ACA-4C2F-926A-4BDE0EC60233</Project>
+    <ProjectReference Include="C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/ZERO_CHECK.vcxproj">
+      <Project>627DB805-B60E-414B-AA2D-8405B040C994</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

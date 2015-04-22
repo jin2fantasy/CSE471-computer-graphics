@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code
+# Install script for directory: C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
