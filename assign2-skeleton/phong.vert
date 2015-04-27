@@ -11,8 +11,12 @@ uniform mat4 norm; // normal matrix
 void main()
 {	
 	// ToDo
-	gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+//	gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+//	p = gl_ModelViewMatrix * gl_Vertex;
+	gl_Position = mvp * mv * gl_Vertex; 
+	p = mv * gl_Vertex;
+
 	normal = normalize(gl_NormalMatrix * gl_Normal);
-	p = gl_ModelViewMatrix * gl_Vertex;
+
 	lightDir = gl_LightSource[0].position.xyz - p.xyz;
 }

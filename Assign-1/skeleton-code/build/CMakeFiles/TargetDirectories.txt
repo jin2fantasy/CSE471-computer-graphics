@@ -1,3 +1,3 @@
-C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Malak/Desktop/wonjin/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/assign_1.dir
+C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-1/skeleton-code/build/CMakeFiles/assign_1.dir
