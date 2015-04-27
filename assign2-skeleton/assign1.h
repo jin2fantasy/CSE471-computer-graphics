@@ -34,43 +34,6 @@ GLuint indexBufferID;
 // Mesh data input
 Mesh mesh("../mesh-data/bunny.off");
 
-void init()
-{
-	glClearColor(1.0, 1.0, 1.0, 1.0);
-	glClearDepth(1.0);
-	glEnable(GL_DEPTH_TEST);
-	glEnable(GL_NORMALIZE);
-
-	// vertex buffer, normal buffer, & index buffer
-	glGenBuffers(1, &vertexBufferID);
-	glBindBuffer(GL_ARRAY_BUFFER, vertexBufferID);
-	glBufferData(GL_ARRAY_BUFFER, sizeof(float) * 3 * mesh.nVertices, mesh.vertices, GL_STATIC_DRAW);
-	glGenBuffers(1, &normalBufferID);
-	glBindBuffer(GL_ARRAY_BUFFER, normalBufferID);
-	glBufferData(GL_ARRAY_BUFFER, sizeof(float) * 3 * mesh.nVertices, mesh.normalSmooth, GL_STATIC_DRAW);
-	glGenBuffers(1, &indexBufferID);
-	glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, indexBufferID);
-	glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(unsigned int) * 3 * mesh.nFaces, mesh.faces, GL_STATIC_DRAW);
-
-	// light settings
-
-	// light position & color
-	float lpos[4] = { -2, 0, 5, 1 };
-	GLfloat diffuse[] = { 0.8, 0.3, 0.5, 1 };
-	GLfloat specular[] = { 0.6, 0.6, 0.6, 1 };
-	GLfloat ambient[] = { 0.3, 0.3, 0.3, 1 };
-	GLfloat white[] = { 1.0f, 1.0f, 1.0f, 1.0f };
-
-	glEnable(GL_LIGHT0);
-	glLightfv(GL_LIGHT0, GL_POSITION, lpos);
-	glLightfv(GL_LIGHT0, GL_DIFFUSE, diffuse);
-	glLightfv(GL_LIGHT0, GL_SPECULAR, specular);
-	glLightfv(GL_LIGHT0, GL_AMBIENT, ambient);
-	glMaterialfv(GL_FRONT_AND_BACK, GL_SPECULAR, white);
-	glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-	glShadeModel(GL_SMOOTH);
-}
-
 
 void mouseButton(int button, int state, int x, int y)
 {

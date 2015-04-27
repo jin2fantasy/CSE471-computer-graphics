@@ -13,6 +13,6 @@ void main()
 	// ToDo
 	gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
 	normal = normalize(gl_NormalMatrix * gl_Normal);
-	p = gl_Vertex * gl_ModelViewMatrix;
+	p = gl_ModelViewMatrix * gl_Vertex;
 	lightDir = gl_LightSource[0].position.xyz - p.xyz;
 }
