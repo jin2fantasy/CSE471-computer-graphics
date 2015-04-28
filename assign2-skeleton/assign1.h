@@ -104,6 +104,8 @@ void mouseButton(int button, int state, int x, int y)
 		break;
 	}
 	}
+	glutPostRedisplay();
+
 }
 
 void mouseMotion(int x, int y)
@@ -126,18 +128,16 @@ void mouseMotion(int x, int y)
 		q1.y = rotateDirection.y*std::sin(angle / 2);
 		q1.z = rotateDirection.z*std::sin(angle / 2);
 		q1.w = std::cos(angle / 2);
-		glutPostRedisplay();
 	}
 
 	if (mouseMiddle == true) {
 		dx = (x - mouseX)*0.001;
 		dy = -(y - mouseY)*0.001;
-		glutPostRedisplay();
 	}
 
 	if (mouseRight == true) {
 		dz = -(y - mouseY)*0.005;
-		glutPostRedisplay();
 	}
+	glutPostRedisplay();
 
 }
