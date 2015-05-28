@@ -1,0 +1,10 @@
+﻿Build started 2015-05-28 오전 12:24:26.
+     1>Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/wonjin/SkyDrive/臾몄꽌/Assignments/CSE471-computer-graphics/Assign-4-skeleton/build/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.91

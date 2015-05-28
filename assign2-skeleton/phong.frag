@@ -14,7 +14,7 @@ void main()
 {	
 	// ToDo
 	float alpha = 100;
-	vec3 v = normalize(vec3(-p));
+	vec3 v = normalize(-p.xyz);
 	vec3 n = normalize(normal);
 	vec3 l = normalize(lightDir);
 	vec3 r = normalize(reflect(-l,n));

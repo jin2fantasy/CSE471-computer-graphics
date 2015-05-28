@@ -1,0 +1,20 @@
+﻿Build started 2015-05-28 오전 12:24:27.
+     1>Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\assign_4.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\wonjin\SkyDrive\臾몄꽌\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\freeglut\include" /I"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\glew\inc" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"assign_4.dir\Debug\\" /Fd"assign_4.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\bmploader.cpp" "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\main.cpp"
+         bmploader.cpp
+         main.cpp
+     1>C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\main.cpp(66): warning C4554: '^' : check operator precedence for possible error; use parentheses to clarify precedence
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\Debug\assign_4.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/freeglut/lib" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/freeglut/lib/Debug" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/glew/lib" /LIBPATH:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/glew/lib/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib freeglut.lib glew32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/build/Debug/assign_4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/wonjin/SkyDrive/문서/Assignments/CSE471-computer-graphics/Assign-4-skeleton/build/Debug/assign_4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug assign_4.dir\Debug\bmploader.obj
+         assign_4.dir\Debug\main.obj
+         assign_4.vcxproj -> C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\Debug\assign_4.exe
+     1>Done Building Project "C:\Users\wonjin\SkyDrive\문서\Assignments\CSE471-computer-graphics\Assign-4-skeleton\build\assign_4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58
